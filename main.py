@@ -20,7 +20,7 @@ class Window:
         self.light_bg = "white"
         self.dark_bg = "#0F0F0F"
         self.font = "Roboto"
-        self.api = "AIzaSyB3NEPJMng2JJ1cDOZyuI6W58EGsyC7Pbs"
+        self.api = <YOUR-API-KEY>
         self.button_checker = False
         self.theme_button_mode = True
         # --------------------------------------------------------------------------------------------------------------
